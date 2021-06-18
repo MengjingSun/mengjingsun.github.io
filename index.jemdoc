@@ -1,29 +1,26 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-==Pei Zhang 
+==Mengjing Sun
 
 ~~~
-{}{img_left}{https://scholar-1304440691.cos.ap-guangzhou.myqcloud.com/zpp.jpg}{^-^}{170}{180}{http://jeaninezp.github.io}
+{}{img_left}{photo/MengjingSun.jpg}{^-^}{108}{180}{http://mengjingsun.github.io}
 
-Ph.D. candidate\n 
+Master. student\n 
 
 College of Computer, [https://english.nudt.edu.cn/ National University of Defense Technology (NUDT)]\n
 
 Location: Deya Road, Kaifu District, Changsha, Hunan Province, P.R. China. \n 
 
-E-mail: /jeaninezpp@gmail.com (prior), zhangpei@nudt.edu.cn/ \n
+E-mail: /sun_mj@nudt.edu.cn/ \n
 
 \[[https://scholar.google.com/citations?user=Vh1eFgoAAAAJ&hl=en Google Scholar]\] 
-\[[https://github.com/Jeaninezpp GitHub]\]
-\[[https://www.researchgate.net/profile/Pei-Zhang-38 ResearchGate]\] 
+\[[https://github.com/MengjingSun GitHub]\]
 ~~~
 
 == News!
 {{<a id="news" name="news" class="anchor"></a>}}
 
 \[2020.12\]~~One paper is accepted by /*IEEE TMM*/. \[[https://ieeexplore.ieee.org/document/9447203 link]\] \n
-\[2020.12\]~~One paper is accepted by /*IEEE TKDE*/. \[[https://ieeexplore.ieee.org/document/9298842 link]\] \n
-\[2020.10\]~~One paper is accepted by /*Sensors*/. \[[https://www.mdpi.com/1424-8220/20/20/5755 link]\] \n
-\[2020.10\]~~One paper is accepted by /*Journal of Frontiers of Computer Science and Technology*/. \[[http://fcst.ceaj.org/CN/abstract/abstract2429.shtml link]\] \n
+
 
 
 
@@ -39,9 +36,9 @@ I work in the field of machine learning and data mining. Currently, I focus on t
 == Education
 {{<a id="education" name="education" class="anchor"> </a>}}
 
-- \[2021.03-Now\]~~~~~~~~Ph.D in PRMI group , [https://english.nudt.edu.cn/ NUDT].~~~~~~~~~~~~~~~~~~~~~Supervisor: Prof. En Zhu & [https://xinwangliu.github.io/ Xinwang Liu]
-- \[2018.09-2020.12\]~~~M.S. in School of Computer, NUDT. ~~~~~~~~~Supervisor: Prof. [https://xinwangliu.github.io/ Xinwang Liu] & [http://individual.utoronto.ca/zcai/ Zhiping Cai]
-- \[2014.09-2018.06\]~~~B.S. in School of Software, YNU.  ~~~~~~~~~~~~~~Supervisor: Prof. [http://blog.sciencenet.cn/home.php?mod=space&uid=629831 Zhijie Zheng]
+
+- \[2019.09--Now\]~~~M.S. in School of Computer, [https://english.nudt.edu.cn/ NUDT]. ~~~~~~~~~Supervisor: Prof. [https://xinwangliu.github.io/ Xinwang Liu] & Prof. Changjian Wang
+- \[2015.09-2019.06\]~~~B.S. in School of Computer, HENU.  ~~~~~~~~~~~~~~Supervisor: Prof. Chongsheng Zhang
 
 # [research.html Find out more].
 
@@ -51,13 +48,8 @@ I work in the field of machine learning and data mining. Currently, I focus on t
 Journal:
 # . \[*TNNLS'01*\]~~*Jiyuan Liu*, Xinwang Liu\*, Yuexiang Yang, Xifeng Guo, Marius Kloft, Liangzhong He: {{<u>Multi-view Subspace Clustering via Co-training Robust Data Representation</u>}}. IEEE Transactions on Neural Networks and Learning Systems, TNNLS. (Accepted Mar. 2021) \[[pubs/CoMSC_TNNLS.pdf PDF]\] \[[pubs/CoMSC_appendix.pdf Appendix]\] \[[https://github.com/liujiyuan13/CoMSC-code_release Code]\] \[[bibs/CoMSC_TNNLS.bib Bib]\]
 
-. Sun Mengjing, Wang Siwei, *Zhang Pei*, Liu Xinwang, Guo Xifeng, Sihang Zhou, and En
+. *Mengjing Sun*, Siwei Wang, Pei Zhang, Xinwang Liu, Xifeng  Guo, Sihang Zhou, and En
 Zhu. "Projective Multiple Kernel Subspace Clustering." /*IEEE Transactions on Multimedia (TMM)*/, (2021). \[[https://ieeexplore.ieee.org/abstract/document/9447203 Link]\]~\[[https://github.com/MengjingSun/PMKSC-code Code]\]
-. *Zhang, Pei*, Xinwang Liu, Jian Xiong, Sihang Zhou, Wentao Zhao, En Zhu, and Zhiping Cai. "Consensus One-step Multi-view Subspace Clustering." /*IEEE Transactions on Knowledge and Data Engineering (TKDE)*/, (2020). \[[https://ieeexplore.ieee.org/abstract/document/9298842 Link]\]~\[[paper/COMVSC.pdf PDF]\]~\[[https://github.com/Jeaninezpp/COMVSC Code]\]~\[[bibtex.html\#zhangcomvsc2020 BibTeX]\]
-. *Zhang, Pei*, Siwei Wang, Jingtao Hu, Zhen Cheng, Xifeng Guo, En Zhu, and Zhiping Cai.
-"Adaptive Weighted Graph Fusion Incomplete Multi-View Subspace Clustering." /*Sensors*/, (2020). \[[https://www.mdpi.com/1424-8220/20/20/5755 Link]\]~\[[paper/sensors.pdf PDF]\]~\[[https://github.com/Jeaninezpp/AWGF-code Code]\]
-. *Zhang, Pei*, Xinwang Liu, Jian Xiong, Sihang Zhou, Wentao Zhao, En Zhu, and Zhiping Cai. "One-stage Partition-fusion Multi-view Subspace Clustering Algorithm." /*Journal of Frontiers of Computer Science and Technology*/, (2020). \[[http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2009070 Link]\]
-. *Zhang, Pei*, Xinwang Liu, Jian Xiong, Sihang Zhou, Wentao Zhao, En Zhu, and Zhiping Cai. "Consensus One-step Multi-view Subspace Clustering." /*IEEE Transactions on Knowledge and Data Engineering (TKDE)*/, (2020). \[[https://ieeexplore.ieee.org/abstract/document/9298842 Link]\]~\[[paper/COMVSC.pdf PDF]\]~\[[https://github.com/Jeaninezpp/COMVSC Code]\]~ 
 
 
 # [publications.html Full list of publications].
